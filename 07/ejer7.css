@@ -1,0 +1,9 @@
+img{	width: 120px;
+		position: absolute;
+
+}
+.etiqueta{	position: relative;
+			float: left;
+			margin-left: 100%;
+}
+	
