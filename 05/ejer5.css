@@ -1,0 +1,16 @@
+ html, body { margin: auto; }
+ .elem {width: 250px;           
+ 		height:260px; 
+ 		position: relative;       
+ }
+ .foto1{ background:url(lente.jpg);
+ 				left: 0px;
+ 				position: absolute;
+ 				top: 0px;
+ 				z-index: 1;
+ 	}
+ .foto2{ background:url(oferta.png);           
+    	       left: 24px;            
+    	       position: absolute;            
+    	       top: 36px;
+    	       z-index: 2;
